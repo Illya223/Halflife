@@ -1,0 +1,21 @@
+.background{
+    background-color: orange;
+    min-height: 100vh;
+   
+}
+
+.home{
+    padding-top: 300px;
+}
+
+.home-h1{
+    font-size: 5em;
+}
+
+.home-p{
+    font-size: 2em;
+}
+
+.nav{
+    color: black;
+}
